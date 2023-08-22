@@ -7,9 +7,9 @@ Nama : Mif
 
 Nim : 21938
 
-Kelas : 2
+Kelas : B
 
 Avatar :
 
-![Avatar](image\catcool.jpeg)
+<img src = "image/catcool.jpeg" width="50" img/>  
 
